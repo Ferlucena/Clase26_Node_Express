@@ -1,0 +1,7 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+#reglas de exclusion
+# barra al final especifica una carpeta
+# barra al principio significa ruta absoluta 
+# no colocar barra al prinicpio especifica una ruta relativa al archivo .gitignore
